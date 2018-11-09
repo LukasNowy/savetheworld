@@ -1,0 +1,49 @@
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+  margin-top: 15px;
+}
+
+#navbar {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+  #navbar {
+    border-color: transparent;
+    background-color: rgba(167, 4, 4, 0.464);
+  }
+  #navbar .navbar-brand {
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+header.slider {
+  background-image: url("../img/1.png");
+  background-position: center center;
+  background-size: cover;
+}
+
+
+header.slider {
+    height: 100vh;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+
+section {
+  padding: 90px;
+  background-color: #0a0a0a;
+}
+
+.mb-5 {
+  text-align: center;
+}
+
+
